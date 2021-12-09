@@ -136,7 +136,7 @@ export class Game {
       this.miss();
     }
   }
-  
+
   //spawn letters
   spawn() {
     const rndCode = getRandomNum(65, 90);
